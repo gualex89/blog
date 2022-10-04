@@ -24,6 +24,7 @@ body{
 }
 #container{
     width: 70%;
+    height: 500px;
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
@@ -32,4 +33,13 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+footer{
+    width: 70%;
+    height: 100px;
+    background-color: gray;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+
 }
